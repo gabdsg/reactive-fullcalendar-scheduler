@@ -6,7 +6,7 @@ https://github.com/fullcalendar/fullcalendar/releases
 ### Installation ###
 
 ```bash
-    meteor add supaseca:reactive-fullcalendar
+    meteor add gabdsg:reactive-fullcalendar-scheduler
 ```
 
 ### Usage ###
