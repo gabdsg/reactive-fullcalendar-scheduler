@@ -20,5 +20,6 @@ ReactiveFullcalendar = function (options) {
 
 ReactiveFullcalendar.prototype.update = function () {
     this.calendar.fullCalendar('refetchEvents');
+    this.calendar.fullCalendar('refetchResources');
 };
 

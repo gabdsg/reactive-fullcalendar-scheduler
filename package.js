@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Reactive Fullcalendar version 3.0.1 and Scheduler-1.4.0",
-    version: '1.0.1',
+    version: '1.0.2',
     git: "https://github.com/gabdsg/reactive-fullcalendar-scheduler.git",
     name: 'gabdsg:reactive-fullcalendar-scheduler',
 });
