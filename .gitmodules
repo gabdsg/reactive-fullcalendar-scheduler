@@ -1,0 +1,3 @@
+[submodule "reactive-fullcalendar-scheduler"]
+	path = reactive-fullcalendar-scheduler
+	url = https://github.com/gabdsg/reactive-fullcalendar-scheduler.git

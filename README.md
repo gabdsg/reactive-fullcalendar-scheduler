@@ -1,6 +1,4 @@
-Based on http://fullcalendar.io/ v3.0.1 -  JQuery plugin packaged for Meteor 1.0.
-
-Amongst other improvements, version 3 of Fullcalendar includes support for list views of events and drops support for IE 8.
+Based on http://fullcalendar.io/ v3.0.1 and https://fullcalendar.io/scheduler/ v1.4.0
 
 For the complete list of changes in version 3, visit the releases page:
 https://github.com/fullcalendar/fullcalendar/releases
